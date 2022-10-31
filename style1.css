@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+
+
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "spartan", sans-serif;
+    background-color:cyan;
+}
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    top: 0;
+    left: 0;
+=======
+
+
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "spartan", sans-serif;
+    background-color:cyan;
+}
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    top: 0;
+    left: 0;
+>>>>>>> 2d31f3fb2f51b28091f7b8fbe3a2c83ec6e1e04a
+}
